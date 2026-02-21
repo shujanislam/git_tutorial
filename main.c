@@ -1,9 +1,7 @@
 #include<stdio.h>
 
 int main(){
-  printf("Hello World");
-
-  printf("TU CODES");
+  printf("This commit is for the issue");
 
   return 0;
 }
